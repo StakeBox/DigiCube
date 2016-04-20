@@ -1,1 +1,1 @@
-Equilibrium v1.0.0.0
+DigiCube v1.8
